@@ -25,16 +25,12 @@ This repository encompasses the results of practical activities related to Magne
 
 ## Usage
 
-This repository is structured to facilitate learning through practical examples and exercises. Each section not only includes detailed explanations and introductions to the topics but also features a comprehensive Jupyter Notebook `[MRI_trabajo.ipynb](/MRI_trabajo.ipynb)` with solved exercises. For an in-depth understanding of the results and methodologies employed, refer to the report `[MRI_report Sevillano.pdf](/MRI_report%20Sevillano.pdf)`, both of which are authored by me, ensuring authenticity and personal insight into the field of MRI image processing and qMRI.
+This repository is structured to facilitate learning through practical examples and exercises. Each section not only includes detailed explanations and introductions to the topics but also features a comprehensive Jupyter Notebook [MRI_trabajo.ipynb](MRI_trabajo.ipynb) with solved exercises. For an in-depth understanding of the results and methodologies employed, refer to the report [MRI_report Sevillano.pdf](MRI_report%20Sevillano.pdf), both of which are authored by me, ensuring authenticity and personal insight into the field of MRI image processing and qMRI.
 
 Included in this repository are:
 - Code examples in Python for processing and analyzing MRI data.
-- The `[MRI_trabajo.ipynb](/MRI_trabajo.ipynb)` notebook containing all exercises and solutions.
-- A detailed report `[MRI_report Sevillano.pdf](/MRI_report%20Sevillano.pdf)` elaborating on the exercises' outcomes and techniques used.
+- The [MRI_trabajo.ipynb](MRI_trabajo.ipynb) notebook containing all exercises and solutions.
+- A detailed report [MRI_report Sevillano.pdf](MRI_report%20Sevillano.pdf) elaborating on the exercises' outcomes and techniques used.
 - Datasets and images to practice the demonstrated techniques.
 
 All files necessary for the exercises, including datasets and images, are available within this repository, aiming to provide a comprehensive view on handling and understanding MRI data. The code and report are personally authored, reflecting my approach to exploring the capabilities and applications of MRI and qMRI in medical research.
-
-[MRI_trabajo.ipynb](MRI_trabajo.ipynb)
-[MRI_report Sevillano.pdf](MRI_report%20Sevillano.pdf)
-
