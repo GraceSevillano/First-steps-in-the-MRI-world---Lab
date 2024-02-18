@@ -34,3 +34,7 @@ Included in this repository are:
 - Datasets and images to practice the demonstrated techniques.
 
 All files necessary for the exercises, including datasets and images, are available within this repository, aiming to provide a comprehensive view on handling and understanding MRI data. The code and report are personally authored, reflecting my approach to exploring the capabilities and applications of MRI and qMRI in medical research.
+
+[MRI_trabajo.ipynb](MRI_trabajo.ipynb)
+[MRI_report Sevillano.pdf](MRI_report%20Sevillano.pdf)
+
